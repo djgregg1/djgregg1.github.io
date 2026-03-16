@@ -1,6 +1,10 @@
 # djgregg1.github.io
-Astro-gitcms trials
 
-## Documentation on the two main technologies
-Astro.js can be found at https://astro.build
-gitcms can be found at https://gitcms.com
+# This is a test site at the moment to practice with static site builders, pushing the code to GitHub and generating a static website at GitHub Pages.
+
+Some of the static site builders to be tried are:
+- Jekyll
+- Eleventy
+- Astro
+- Gatsby
+
